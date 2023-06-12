@@ -39078,6 +39078,7 @@ www.remitosdigitales.ford.com
 www.remotely.ford.com
 www.remotepay.ford.com
 www.remotesetup.ford.com
+www.rendezvous.ford.com
 www.repair.ford.com
 www.repairbay-throughput.ford.com
 www.repairbay.ford.com
